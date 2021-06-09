@@ -1,2 +1,6 @@
 rootProject.name = 'testing-java-junit5-gradle'
 
+
+// Set Up Integration test
+// https://www.petrikainulainen.net/programming/gradle/getting-started-with-gradle-integration-testing/
+
